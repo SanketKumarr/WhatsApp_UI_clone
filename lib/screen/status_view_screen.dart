@@ -14,7 +14,7 @@ class ViewStatus extends StatelessWidget {
     //     controller: controller,
     //   ),
     // ];
-    return Material( // wrapped with material to remove the underline appearing in text story
+    return Material( 
       child: StoryView(
         storyItems: [
           StoryItem.pageImage(
