@@ -30,7 +30,6 @@ class MyApp extends StatelessWidget {
       routes: {
         "/": (context) => MyHomePage(),
         // "/chatscreen": (context) => ChatScreen(item: item,),
-        //TODO: add chat screen route
       },
     );
   }
