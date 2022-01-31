@@ -13,7 +13,6 @@ class FriendProfile extends StatefulWidget {
 class _FriendProfileState extends State<FriendProfile> {
   late final Item item;
   bool value = true;
- // TODO:BUG: Field 'item' has not been initialized
   @override
   Widget build(BuildContext context) {
 
@@ -53,7 +52,6 @@ Widget buildImages() => SliverToBoxAdapter(
                     leading: Text(
                       "Mute notifications",
                     ),
-                    //TODO: MAKE SWITCH
                     // trailing:
                   ),
                   ListTile(
