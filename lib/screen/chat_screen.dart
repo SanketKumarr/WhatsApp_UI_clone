@@ -119,52 +119,6 @@ class ChatScreen extends StatelessWidget {
                         ),
                       ),
                     ),
-                    // ERROR:----------------------------------------------------
-                    // child: Row(
-                    //   children: [
-                    //     IconButton(
-                    //       onPressed: () {},
-                    //       icon: Icon(
-                    //         Icons.emoji_emotions_outlined,
-                    //         color: Colors.grey[800],
-                    //         size: 25,
-                    //       ),
-                    //     ),
-                    //     Container(
-                    //       width: 140,
-                    //       child: TextField(
-                    //         decoration: InputDecoration(
-                    //           hintText: "Type your message",
-                    //           border: InputBorder.none,
-                    //         ),
-                    //       ),
-                    //     ),
-                    //     // SizedBox(
-                    //     //   width: 10,
-                    //     // ),
-                    //     SizedBox(
-                    //       width: 24,
-                    //     ),
-                    //     IconButton(
-                    //       onPressed: () {},
-                    //       constraints: BoxConstraints.tight(Size.fromWidth(32)),
-                    //       icon: Icon(
-                    //         Icons.attach_file_outlined,
-                    //         color: Colors.grey[800],
-                    //         size: 25,
-                    //       ),
-                    //     ),
-                    //     IconButton(
-                    //       onPressed: () {},
-                    //       icon: Icon(
-                    //         Icons.photo_camera,
-                    //         color: Colors.grey[800],
-                    //         size: 25,
-                    //       ),
-                    //     ),
-                    //   ],
-                    // ),
-                    //------------------------------------------------------------
                   ),
                 ),
                 SizedBox(
