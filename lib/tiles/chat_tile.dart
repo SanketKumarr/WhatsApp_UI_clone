@@ -30,7 +30,6 @@ class ChatTiles extends StatelessWidget {
         overflow: TextOverflow.ellipsis,
         maxLines: 1,
       ),
-      // trailing: //TODO:Learn: Show real time and date,
     );
   }
 }
